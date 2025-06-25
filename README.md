@@ -8,6 +8,9 @@ A curated list of useful web development tools, libraries, frameworks, and resou
 	- [🛠️ CSS Tools](#️-css-tools)
 	- [🔤 Fonts \& Typography](#-fonts--typography)
 	- [📌 Favicon Generator](#-favicon-generator)
+	- [🖼️ Placeholder Tools](#️-placeholder-tools)
+	- [🔍 SEO Tools](#-seo-tools)
+	- [🌐 Web System Tools](#-web-system-tools)
 	- [✅ How to Contribute](#-how-to-contribute)
 	- [📄 License](#-license)
 
@@ -169,6 +172,54 @@ A curated list of useful web development tools, libraries, frameworks, and resou
     <td><strong>Formito Favicon Tool</strong></td>
     <td> Quickly generates favicons from images in various sizes and formats for web use.</td>
     <td><a href="https://formito.com/tools/favicon">Link</a></td>
+  </tr>
+</table>
+
+
+## 🖼️ Placeholder Tools
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Lorem Picsum</strong></td>
+    <td>A free service that provides random or specific placeholder images for use in web and design projects.</td>
+    <td><a href="https://picsum.photos/">Link</a></td>
+  </tr>
+</table>
+
+
+## 🔍 SEO Tools
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Keyword Tool (Instagram)</strong></td>
+    <td>Generates popular Instagram keyword and hashtag suggestions to help improve reach and engagement.</td>
+    <td><a href="https://keywordtool.io/instagram">Link</a></td>
+  </tr>
+</table>
+
+
+## 🌐 Web System Tools
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Web System Tools</strong></td>
+    <td>Checks website availability and performance from multiple global locations in real-time.</td>
+    <td><a href="https://www.site24x7.com/tools/check-website-availability.html">Link</a></td>
   </tr>
 </table>
 
