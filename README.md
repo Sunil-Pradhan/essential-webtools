@@ -4,6 +4,8 @@ A curated list of useful web development tools, libraries, frameworks, and resou
 - [📦 Awesome Web Tools List](#-awesome-web-tools-list)
 	- [🖼️ Image Optimization](#️-image-optimization)
 	- [🎨 Color Tools](#-color-tools)
+	- [📏 Unit Converters](#-unit-converters)
+	- [🛠️ CSS Tools](#️-css-tools)
 	- [✅ How to Contribute](#-how-to-contribute)
 	- [📄 License](#-license)
 
@@ -75,6 +77,55 @@ A curated list of useful web development tools, libraries, frameworks, and resou
 </table>
 
 
+## 📏 Unit Converters
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>NekoCalc (PX to REM)</strong></td>
+    <td>A simple tool to convert pixels to rem based on a custom root font size for responsive CSS design.</td>
+    <td><a href="https://nekocalc.com/px-to-rem-converter">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>NinjaUnits (PX ↔ REM)</strong></td>
+    <td>Converts between pixels and rem units with adjustable base font size settings.</td>
+    <td><a href="https://www.ninjaunits.com/converters/pixels/rem-pixels/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>SimpleCSS (PX to EM)</strong></td>
+    <td>Quickly converts pixel values to em units for scalable and accessible typography.</td>
+    <td><a href="https://simplecss.eu/pxtoems.html">Link</a></td>
+  </tr>
+</table>
+
+## 🛠️ CSS Tools
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Can I Use? (Browser Support)</strong></td>
+    <td> Lets you check browser compatibility for HTML, CSS, and JavaScript features across major browsers.</td>
+    <td><a href="https://caniuse.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>CSS Reference</strong></td>
+    <td>A visual guide to all CSS properties with practical examples and live previews.</td>
+    <td><a href="https://cssreference.io/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>CSS Selectors & Units Cheat Sheet</strong></td>
+    <td>A handy printable guide to CSS selectors and unit types for quick reference.</td>
+    <td><a href="https://learntheweb.courses/topics/css-selectors-units-cheat-sheet/">Link</a></td>
+  </tr>
+</table>
 
 ## ✅ How to Contribute
 Have a free tool you love? Feel free to submit a pull request or open an issue!
