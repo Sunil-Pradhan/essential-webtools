@@ -1,6 +1,10 @@
-# 📦 Awesome Webtools List
+# 📦 Awesome Web Tools List
 A curated list of useful web development tools, libraries, frameworks, and resources to help developers build better websites and web applications.
 
+- [📦 Awesome Web Tools List](#-awesome-web-tools-list)
+	- [🖼️ Image Optimization](#️-image-optimization)
+	- [✅ How to Contribute](#-how-to-contribute)
+	- [📄 License](#-license)
 
 
 ## 🖼️ Image Optimization
