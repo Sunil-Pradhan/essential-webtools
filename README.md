@@ -6,6 +6,8 @@ A curated list of useful web development tools, libraries, frameworks, and resou
 	- [🎨 Color Tools](#-color-tools)
 	- [📏 Unit Converters](#-unit-converters)
 	- [🛠️ CSS Tools](#️-css-tools)
+	- [🔤 Fonts \& Typography](#-fonts--typography)
+	- [📌 Favicon Generator](#-favicon-generator)
 	- [✅ How to Contribute](#-how-to-contribute)
 	- [📄 License](#-license)
 
@@ -124,6 +126,49 @@ A curated list of useful web development tools, libraries, frameworks, and resou
     <td><strong>CSS Selectors & Units Cheat Sheet</strong></td>
     <td>A handy printable guide to CSS selectors and unit types for quick reference.</td>
     <td><a href="https://learntheweb.courses/topics/css-selectors-units-cheat-sheet/">Link</a></td>
+  </tr>
+</table>
+
+
+## 🔤 Fonts & Typography
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>The Good Line Height</strong></td>
+    <td>Helps you calculate the optimal CSS line-height for better readability based on font size.</td>
+    <td><a href="https://thegoodlineheight.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>ifonts</strong></td>
+    <td>A free library of downloadable fonts for personal and commercial use, including previews and categories.</td>
+    <td><a href="https://ifonts.xyz/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Online Web Fonts</strong></td>
+    <td>Offers a large collection of web-safe and downloadable fonts for use in web and graphic design.</td>
+    <td><a href="https://www.onlinewebfonts.com/fonts">Link</a></td>
+  </tr>
+</table>
+
+
+
+## 📌 Favicon Generator
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Formito Favicon Tool</strong></td>
+    <td> Quickly generates favicons from images in various sizes and formats for web use.</td>
+    <td><a href="https://formito.com/tools/favicon">Link</a></td>
   </tr>
 </table>
 
