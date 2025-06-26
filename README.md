@@ -10,7 +10,12 @@ A curated list of useful web development tools, libraries, frameworks, and resou
 	- [📌 Favicon Generator](#-favicon-generator)
 	- [🖼️ Placeholder Tools](#️-placeholder-tools)
 	- [🔍 SEO Tools](#-seo-tools)
-	- [🌐 Web System Tools](#-web-system-tools)
+	- [🌐 Server Monitoring Tool](#-server-monitoring-tool)
+	- [⚙️ JavaScript Tools](#️-javascript-tools)
+	- [🎬 Streaming Utility](#-streaming-utility)
+	- [🖍️ Icons \& Emojis](#️-icons--emojis)
+	- [🎨 Design Inspiration](#-design-inspiration)
+	- [✂️ Code Snippets](#️-code-snippets)
 	- [✅ How to Contribute](#-how-to-contribute)
 	- [📄 License](#-license)
 
@@ -208,7 +213,7 @@ A curated list of useful web development tools, libraries, frameworks, and resou
 </table>
 
 
-## 🌐 Web System Tools
+## 🌐 Server Monitoring Tool
 
 <table>
   <tr>
@@ -220,6 +225,96 @@ A curated list of useful web development tools, libraries, frameworks, and resou
     <td><strong>Web System Tools</strong></td>
     <td>Checks website availability and performance from multiple global locations in real-time.</td>
     <td><a href="https://www.site24x7.com/tools/check-website-availability.html">Link</a></td>
+  </tr>
+</table>
+
+
+## ⚙️ JavaScript Tools
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>ES6 Compatibility Table</strong></td>
+    <td>A detailed chart showing ECMAScript 6 feature support across different browsers and JavaScript engines.</td>
+    <td><a href="https://compat-table.github.io/compat-table/es6/">Link</a></td>
+  </tr>
+</table>
+
+
+## 🎬 Streaming Utility
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>SaveSubs</strong></td>
+    <td>Allows you to download subtitles from YouTube, Viki, and other video platforms in various formats.</td>
+    <td><a href="https://savesubs.com/">Link</a></td>
+  </tr>
+</table>
+
+
+## 🖍️ Icons & Emojis
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Tabler Icons</strong></td>
+    <td>A free, open-source collection of customizable and pixel-perfect SVG icons for modern web interfaces.</td>
+    <td><a href="https://tablericons.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Emojipedia</strong></td>
+    <td>A comprehensive reference for emoji meanings, codes, and updates across platforms.</td>
+    <td><a href="https://emojipedia.org/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>HotEmoji</strong></td>
+    <td>Provides a searchable list of emojis with meanings and copy-paste functionality for quick use.</td>
+    <td><a href="https://hotemoji.com/">Link</a></td>
+  </tr>
+</table>
+
+
+## 🎨 Design Inspiration
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>CollectUI</strong></td>
+    <td>A daily collection of beautiful UI design inspirations sorted by category and pattern.</td>
+    <td><a href="https://collectui.com/?ref=flatuicolors">Link</a></td>
+  </tr>
+</table>
+
+
+## ✂️ Code Snippets
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>CSS Script</strong></td>
+    <td>A curated list of lightweight JavaScript and CSS libraries, plugins, and code snippets for front-end development.</td>
+    <td><a href="https://www.cssscript.com/">Link</a></td>
   </tr>
 </table>
 
