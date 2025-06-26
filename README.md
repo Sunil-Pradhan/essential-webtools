@@ -1,7 +1,7 @@
-# 📦 Awesome Web Tools List
+# 📦 Essential Web Tools for Everyone
 A curated list of useful web development tools, libraries, frameworks, and resources to help developers build better websites and web applications.
 
-- [📦 Awesome Web Tools List](#-awesome-web-tools-list)
+- [📦 Essential Web Tools for Everyone](#-essential-web-tools-for-everyone)
 	- [🖼️ Image Optimization](#️-image-optimization)
 	- [🎨 Color Tools](#-color-tools)
 	- [📏 Unit Converters](#-unit-converters)
