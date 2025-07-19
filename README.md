@@ -2,22 +2,24 @@
 A curated list of useful web development tools, libraries, frameworks, and resources to help developers build better websites and web applications.
 
 - [📦 Essential Web Tools for Everyone](#-essential-web-tools-for-everyone)
-	- [🖼️ Image Optimization](#️-image-optimization)
-	- [🎨 Color Tools](#-color-tools)
-	- [📏 Unit Converters](#-unit-converters)
-	- [🛠️ CSS Tools](#️-css-tools)
-	- [🔤 Fonts \& Typography](#-fonts--typography)
-	- [📌 Favicon Generator](#-favicon-generator)
-	- [🖼️ Placeholder Tools](#️-placeholder-tools)
-	- [🔍 SEO Tools](#-seo-tools)
-	- [🌐 Server Monitoring Tool](#-server-monitoring-tool)
-	- [⚙️ JavaScript Tools](#️-javascript-tools)
-	- [🎬 Streaming Utility](#-streaming-utility)
-	- [🖍️ Icons \& Emojis](#️-icons--emojis)
-	- [🎨 Design Inspiration](#-design-inspiration)
-	- [✂️ Code Snippets](#️-code-snippets)
-	- [✅ How to Contribute](#-how-to-contribute)
-	- [📄 License](#-license)
+  - [🖼️ Image Optimization](#️-image-optimization)
+  - [🎨 Color Tools](#-color-tools)
+  - [📏 Unit Converters](#-unit-converters)
+  - [🛠️ CSS Tools](#️-css-tools)
+  - [🔤 Fonts \& Typography](#-fonts--typography)
+  - [📌 Favicon Generator](#-favicon-generator)
+  - [🖼️ Placeholder Tools](#️-placeholder-tools)
+  - [🔍 SEO Tools](#-seo-tools)
+  - [🌐 Server Monitoring Tool](#-server-monitoring-tool)
+  - [⚙️ JavaScript Tools](#️-javascript-tools)
+  - [🎬 Streaming Utility](#-streaming-utility)
+  - [🖍️ Logos, Icons \& Emojis](#️-logos-icons--emojis)
+  - [🎨 Design Inspiration](#-design-inspiration)
+  - [✂️ Code Snippets](#️-code-snippets)
+  - [📊 Whiteboard/Diagramming tool](#-whiteboarddiagramming-tool)
+  - [🗄️ Database tool](#️-database-tool)
+  - [✅ How to Contribute](#-how-to-contribute)
+  - [📄 License](#-license)
 
 
 ## 🖼️ Image Optimization
@@ -84,6 +86,36 @@ A curated list of useful web development tools, libraries, frameworks, and resou
     <td>Lets you blend two colors and view the resulting mix in HEX, RGB, and other formats.</td>
     <td><a href="https://colormixer.web.app/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Color-hex</strong></td>
+    <td>Provides hex color codes, palettes, and detailed color information with previews.</td>
+    <td><a href="https://www.color-hex.com/color-palettes/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Color Hunt</strong></td>
+    <td>A curated collection of trendy and beautiful color palettes for designers and developers.</td>
+    <td><a href="https://colorhunt.co/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Flat UI Colors</strong></td>
+    <td>A collection of modern, flat design color palettes inspired by various regions and themes.</td>
+    <td><a href="https://flatuicolors.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Image Color Picker</strong></td>
+    <td>Extracts colors from uploaded images and provides HEX, RGB, and HSV codes instantly.</td>
+    <td><a href="https://imagecolorpicker.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>RGB To Hex</strong></td>
+    <td>A simple tool to convert RGB color values to HEX format and vice versa.</td>
+    <td><a href="https://www.rgbtohex.net/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Color Name</strong></td>
+    <td>Identifies the closest name and details for a given HEX color code.</td>
+    <td><a href="https://www.color-name.com/hex/264653">Link</a></td>
+  </tr>
 </table>
 
 
@@ -135,6 +167,11 @@ A curated list of useful web development tools, libraries, frameworks, and resou
     <td>A handy printable guide to CSS selectors and unit types for quick reference.</td>
     <td><a href="https://learntheweb.courses/topics/css-selectors-units-cheat-sheet/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>CSS Clip Path Generator</strong></td>
+    <td>A visual tool for generating and previewing complex CSS `clip-path` shapes.</td>
+    <td><a href="https://simplecss.eu/clip-path.html#">Link</a></td>
+  </tr>
 </table>
 
 
@@ -160,6 +197,11 @@ A curated list of useful web development tools, libraries, frameworks, and resou
     <td><strong>Online Web Fonts</strong></td>
     <td>Offers a large collection of web-safe and downloadable fonts for use in web and graphic design.</td>
     <td><a href="https://www.onlinewebfonts.com/fonts">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Cufon Fonts</strong></td>
+    <td>A large collection of free fonts available for download and web use in various styles.</td>
+    <td><a href="https://www.cufonfonts.com/">Link</a></td>
   </tr>
 </table>
 
@@ -261,7 +303,7 @@ A curated list of useful web development tools, libraries, frameworks, and resou
 </table>
 
 
-## 🖍️ Icons & Emojis
+## 🖍️ Logos, Icons & Emojis
 
 <table>
   <tr>
@@ -280,9 +322,14 @@ A curated list of useful web development tools, libraries, frameworks, and resou
     <td><a href="https://emojipedia.org/">Link</a></td>
   </tr>
   <tr>
-    <td><strong>HotEmoji</strong></td>
+    <td><strong>Hot Emoji</strong></td>
     <td>Provides a searchable list of emojis with meanings and copy-paste functionality for quick use.</td>
     <td><a href="https://hotemoji.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>World Vector Logo</strong></td>
+    <td>A searchable collection of free, high-quality vector logos from global brands.</td>
+    <td><a href="https://worldvectorlogo.com/">Link</a></td>
   </tr>
 </table>
 
@@ -299,6 +346,16 @@ A curated list of useful web development tools, libraries, frameworks, and resou
     <td><strong>CollectUI</strong></td>
     <td>A daily collection of beautiful UI design inspirations sorted by category and pattern.</td>
     <td><a href="https://collectui.com/?ref=flatuicolors">Link</a></td>
+  </tr>
+   <tr>
+    <td><strong>UI Goodies</strong></td>
+    <td>A handpicked collection of tools and resources for UI/UX designers and developers.</td>
+    <td><a href="https://uigoodies.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>The Component Gallery</strong></td>
+    <td>A visual reference library showcasing real-world UI components from top digital products.</td>
+    <td><a href="https://component.gallery/">Link</a></td>
   </tr>
 </table>
 
@@ -317,6 +374,69 @@ A curated list of useful web development tools, libraries, frameworks, and resou
     <td><a href="https://www.cssscript.com/">Link</a></td>
   </tr>
 </table>
+
+
+## 📊 Whiteboard/Diagramming tool
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Lucidspark</strong></td>
+    <td>A collaborative online whiteboard for brainstorming, diagramming, and team planning in real time.</td>
+    <td><a href="https://lucid.co/lucidspark">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Draw.io</strong></td>
+    <td>A free online diagramming tool to create flowcharts, org charts, network diagrams, and more.</td>
+    <td><a href="https://www.drawio.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>tldraw</strong></td>
+    <td>A collaborative whiteboard app for drawing diagrams and sketches with a hand-drawn look.</td>
+    <td><a href="https://www.tldraw.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Excalidraw</strong></td>
+    <td>A virtual whiteboard for sketching hand-drawn-like diagrams collaboratively in real time.</td>
+    <td><a href="https://excalidraw.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>OkSo</strong></td>
+    <td>A minimalist thinking and sketching app for visualizing ideas with quick drawings and notes.</td>
+    <td><a href="https://okso.app/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Flowchart Fun</strong></td>
+    <td>A text-based flowchart generator that turns your ideas into simple visual diagrams instantly.</td>
+    <td><a href="https://flowchart.fun/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Esports Data Pipeline</strong></td>
+    <td>An open-source project for collecting and processing esports data using a customizable data pipeline.</td>
+    <td><a href="https://github.com/HerrKurz/Esports_Data_Pipeline">Link</a></td>
+  </tr>
+</table>
+
+
+## 🗄️ Database tool
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Database Diagram</strong></td>
+    <td>An online tool to quickly create and share database relationship diagrams using simple code.</td>
+    <td><a href="https://databasediagram.com/">Link</a></td>
+  </tr>
+</table>
+
 
 ## ✅ How to Contribute
 Have a free tool you love? Feel free to submit a pull request or open an issue!
